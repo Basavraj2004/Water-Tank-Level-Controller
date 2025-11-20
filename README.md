@@ -72,7 +72,45 @@ User can control pump manually using the Adafruit IO app.
 
 ---
 
-# 📈 Flow Chart
-![Flow Chart](flowchart.png)
+## Flow Chart
+![Flow Chart](Flowchart.png)
+
+---
+## Final Design
+![Final Design](Final Design.png)
+
+## 🧪 Results
+- Accurate ultrasonic-based water level measurement  
+- Real-time cloud updates under 2 seconds  
+- Smooth remote pump control via Adafruit IO  
+- Automatic pump control prevents overflow/dry runs
+  ---
+  
+## 🏁 Conclusion
+The IoT-based water level controller provides a **reliable, automated, and efficient** system for water conservation and tank management.  
+It eliminates overflow, reduces manual intervention, and ensures optimal water usage.  
+Real-time monitoring and control through Adafruit IO improve user convenience and system reliability.
+
+---
+
+## 🚀 Future Scope
+- Mobile app notifications for critical levels  
+- Integration with smart home automation systems  
+- Solar-powered water management  
+- AI-based prediction of water usage  
+- Multi-tank support
+- 
+---
+ ## 👥 Team Members
+- **Basavaraj Burli**
+- **Shrinivas Sokanadagi**
+  
+## 📜 License
+This project is **open-source** and free to modify.
+
+---
+
+## ⭐ Support
+If you found this useful, please **star ⭐ the repository** on GitHub!
 
 
