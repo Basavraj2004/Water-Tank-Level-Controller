@@ -52,16 +52,8 @@ A smart IoT solution is required to **automatically sense water levels**, contro
 4. To develop a cost-effective and scalable solution for water management.
 
 ---
-
-## 📚 Literature Survey
-1. **Towards an Autonomous and Smart Water Tank System**  
-   A. Sayyed & M. W. Aziz, *International Journal*, vol. 9, no. 3, 2021.
-
-2. **Cloud-based Water Tank Management and Control System**  
-   C. C. Sekhar et al., SmartTechCon 2023, IEEE.
-
----
-
+##  Circuit Diagram
+![Circuit Diagram](Circuit.png)
 ## 🔧 Methodology
 ### ✔ Sensor & Data Collection  
 Ultrasonic sensor measures water level by calculating sound wave travel time.
@@ -81,5 +73,6 @@ User can control pump manually using the Adafruit IO app.
 ---
 
 # 📈 Flow Chart
-> *(Add your flowchart image in the repo under `/images/flowchart.png`)*
+![Flow Chart](flowchart.png)
+
 
